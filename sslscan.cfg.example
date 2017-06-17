@@ -1,0 +1,13 @@
+# hostnames for https sites to examine are listed here
+# for servers listening on ports other than 443, append ":portnum"
+# everything on a line after the last '#' octothorpe is discarded
+# lines that are blank are ignored.
+
+# the file format may change in future versions
+
+# examples: 
+# github.com
+# duckduckgo.com
+# private.laboratory.com:44380
+
+
